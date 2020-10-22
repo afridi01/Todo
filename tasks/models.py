@@ -11,12 +11,6 @@ class Task(models.Model):
         return self.title
 
 
-
-
-
-
-
-
         # email = request.POST['email']
         # password = request.POST['password']
         # user = User.objects.create_user(name=name, email=email, password=password)
